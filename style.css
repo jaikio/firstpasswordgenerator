@@ -1,0 +1,23 @@
+* {
+  font-size: 24px;
+  font-family: Helvetica;
+  color: white;
+  background: rgb(187, 20, 116);
+  background: linear-gradient(90deg, rgba(187, 20, 116, 1) 0%, rgba(112, 48, 231, 1) 100%);
+}
+
+.btn--generate {
+  height: 50px;
+  width: 150px;
+}
+
+.password {
+  color: orange;
+  font-size: 1rem;
+}
+
+.box {
+  border-radius: 10px;
+  border: 2px solid grey;
+  margin: 20px;
+}
